@@ -7,9 +7,12 @@
     <title>Explorers</title>
 </head>
 <body>
-    <h1>Explorers</h1>
-    <img src="jungle.jfif">
-    <p> Press <a href="chose_start.html">START</a> to begin.</p>
+    
+    <div id="scene_1">
+       <h1>Explorers</h1> 
+       <p> Press <a href="chose_start.html">START</a> to enter the jungle.</p>
+    </div>
+    
     <style>
         body {
             font-size: 20px;
@@ -23,13 +26,14 @@
             padding:  0 0 0 0;
         }
 
-        img {
-            height: 750px;
-            width: 100%;
-        }
-
         a {
             color: white;
+        }
+
+        #scene_1 {
+            background: url(jungle.jfif) no-repeat;
+            height: 800px;
+            width: 800px;
         }
     </style>
 </body>
