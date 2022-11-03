@@ -30,7 +30,7 @@ h1,p {
 }
 
 body#death {
-    background-color: white;
+    background-color: black;
 }
 div#died {
     background-size: 1024px, 1024px;
