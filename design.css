@@ -25,8 +25,8 @@ a {
     left: 400px;
 }
 
-#scene_3, #scene_4 {
-    background: url(path.jfif) no-repeat;
+#scene_3 {
+    background: url(monke.jfif) no-repeat;
     background-size: 1024px, 1024px;
     height: 1024px;
     width: 1024px;
@@ -45,6 +45,24 @@ a {
 
 #victory {
     background: url(victory.jfif) no-repeat;
+    background-size: 1024px, 1024px;
+    height: 1024px;
+    width: 1024px;
+    position: absolute;
+    left: 400px;
+}
+
+#scene_5 {
+    background: url(path.jfif) no-repeat;
+    background-size: 1024px, 1024px;
+    height: 1024px;
+    width: 1024px;
+    position: absolute;
+    left: 400px;
+}
+
+#scene_7 {
+    background: url(monke_2.jfif) no-repeat;
     background-size: 1024px, 1024px;
     height: 1024px;
     width: 1024px;
