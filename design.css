@@ -88,6 +88,23 @@ a {
     left: 400px;
 }
 
+#scene_9 {
+    background: url(sign.jfif) no-repeat;
+    background-size: 1024px, 1024px;
+    height: 1024px;
+    width: 1024px;
+    position: absolute;
+    left: 400px;
+}
+
+#scene_10 {
+    background: url(castle.jfif) no-repeat;
+    background-size: 1024px, 1024px;
+    height: 1024px;
+    width: 1024px;
+    position: absolute;
+    left: 400px;
+}
 
 h1,p {
     text-align: center
