@@ -113,8 +113,11 @@ a {
     width: 1024px;
     position: absolute;
     left: 400px;
+    color: black;
 }
-
+div#scene_8 a{
+color: black;
+}
 #scene_9 {
     background: url(sign.jfif) no-repeat;
     background-size: 1024px, 1024px;
