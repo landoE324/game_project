@@ -16,7 +16,7 @@ a {
     color: white;
 }
 
-#scene_1 {
+#scene_1, #scene_2 {
     background: url(jungle.jfif) no-repeat;
     background-size: 1024px, 1024px;
     height: 1024px;
@@ -27,6 +27,15 @@ a {
 
 #scene_3, #scene_4 {
     background: url(path.jfif) no-repeat;
+    background-size: 1024px, 1024px;
+    height: 1024px;
+    width: 1024px;
+    position: absolute;
+    left: 400px;
+}
+
+#scene_4 {
+    background: url(chest.jfif) no-repeat;
     background-size: 1024px, 1024px;
     height: 1024px;
     width: 1024px;
