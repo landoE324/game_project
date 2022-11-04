@@ -61,6 +61,15 @@ a {
     left: 400px;
 }
 
+#scene_6 {
+    background: url(sword.jfif) no-repeat;
+    background-size: 1024px, 1024px;
+    height: 1024px;
+    width: 1024px;
+    position: absolute;
+    left: 400px;
+}
+
 #scene_7 {
     background: url(monke_2.jfif) no-repeat;
     background-size: 1024px, 1024px;
@@ -69,6 +78,16 @@ a {
     position: absolute;
     left: 400px;
 }
+
+#scene_8 {
+    background: url(powder.jfif) no-repeat;
+    background-size: 1024px, 1024px;
+    height: 1024px;
+    width: 1024px;
+    position: absolute;
+    left: 400px;
+}
+
 
 h1,p {
     text-align: center
